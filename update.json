@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "changelog": [
+    "Initial release of Flasor with complete GUI and CLI support",
+    "Bootable USB creation from ISO files",
+    "Cross-platform support: Windows, Linux, macOS",
+    "Drive detection and ISO writing",
+    "Persistent storage setup for supported ISOs",
+    "Full disk formatting and partitioning",
+    "File system selection: FAT32, NTFS, exFAT",
+    "Safety checks to prevent accidental system drive overwrite",
+    "Live progress during ISO writing",
+    "Dark and Light themes with auto toggle",
+    "Multilingual support (English and Hindi)",
+    "Live log viewer for write/format/partition logs",
+    "Auto-updates check mechanism",
+    "About and Help tabs with CLI/GUI guide and version info",
+    "UEFI/BIOS mode detection",
+    "Secure Boot support and bypass guidance",
+    "USB bad blocks scanning before writing",
+    "ISO compatibility check with warning system",
+    "Windows To Go support for Windows ISOs"
+  ],
+  "download_url": "https://github.com/your-username/flasor/releases/latest/download/flasor.exe"
+}
